@@ -1,0 +1,2 @@
+# minsko
+my personal git
